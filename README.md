@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Pooja
-- 👀 I’m interested in NLP, ML, Django, D3.js 
-- 🌱 I’m currently learning ML Interpretations and Pipelining Explainability
-- 💞️ I’m looking to collaborate on NLP
 - 📫 How to reach me pooja.solaikannu@gmail.com
 
 <!---
